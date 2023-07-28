@@ -1,6 +1,7 @@
 # desafio-lighthouse
 
-## Este repositório contém todo conteúdo desenvolvido para o desafio de ciência de dados para ingressar ao Programa Lighthouse da Indicium.
+## Informações gerais
+Este repositório contém todo conteúdo desenvolvido para o desafio de ciência de dados para ingressar ao Programa Lighthouse da Indicium.
 ### Relatório de estatísticas
   Em [relatório-estatisticas.ipynb](relatório-estatisticas.ipynb) estão as estatisticas extraídas atravéz da análise exploratória dos dados
 ### EDA
