@@ -4,19 +4,20 @@ Este repositório contém todo conteudo desenvolvido para o desafio de ciencia d
 
 Para excutar o projeto de modelagem é preciso ter instalados:
 
-Python 3.9 ou ultima versão: https://www.python.org/downloads/
-Pandas 1.5 ou ultima versão: https://pandas.pydata.org/getting_started.html
+Python 3.9 ou [ultima versão](https://www.python.org/downloads/)
+
+Pandas 1.5 ou [ultima versão](https://pandas.pydata.org/getting_started.html)
 
 pacotes scikitlearn e category_encoders
   
-  pip install -U scikit-learn  
-  ou https://scikit-learn.org/stable/install.html
+  ```pip install -U scikit-learn``` 
+  ou [Scikitlearn](https://scikit-learn.org/stable/install.html)
 
-  pip install category_encoders
-  ou https://contrib.scikit-learn.org/category_encoders/
+  ```pip install category_encoders```
+  ou [Category Encoders](https://contrib.scikit-learn.org/category_encoders/)
 
+além do seu leitor de notebook de preferencia:
 
-além do seu leitor de notebook de preferencia
-
-Jupyter : https://jupyter.org/
-VS Code : https://code.visualstudio.com/download
+[Jupyter](https://jupyter.org/)
+ou
+[VS Code](https://code.visualstudio.com/download)
