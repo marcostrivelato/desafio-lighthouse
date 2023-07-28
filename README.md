@@ -10,6 +10,8 @@ Este repositório contém todo conteúdo desenvolvido para o desafio de ciência
   Em [modelo.ipynb](modelo.ipynb) a preparacao de dados, escolha de modelo e uso do modelo para previsão
 ### Dados
   Todos os dados enviados para análise, [treining](/data/cars_treining) [test](/data/cars_test) e os resultados [predicted.csv]('/data/predicted.csv')
+### PDF
+  Em [LH_CD_MARCOS_PAULO_CORTINA_TRIVELATO](LH_CD_MARCOS_PAULO_CORTINA_TRIVELATO.pdf) tem o pdf com todas observações e conclusões feitas a partir das análises dos dados feitas nos notebooks acima citados
 
 ## Para excutar os projetos de modelagem é preciso ter instalados:
 
