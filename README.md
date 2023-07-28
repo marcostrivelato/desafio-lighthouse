@@ -4,9 +4,9 @@ Este repositório contém todo conteudo desenvolvido para o desafio de ciencia d
 
 Para excutar o projeto de modelagem é preciso ter instalados:
 
-Python 3.9 ou [ultima versão](https://www.python.org/downloads/)
+Python 3.9 ou [última versão](https://www.python.org/downloads/)
 
-Pandas 1.5 ou [ultima versão](https://pandas.pydata.org/getting_started.html)
+Pandas 1.5 ou [última versão](https://pandas.pydata.org/getting_started.html)
 
 pacotes scikitlearn e category_encoders
   
