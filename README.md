@@ -1,6 +1,6 @@
 # desafio-lighthouse
 
-Este repositório contém todo conteudo desenvolvido para o desafio de ciencia de dados para ingressar ao Programa Lighthouse da Indicium.
+Este repositório contém todo conteúdo desenvolvido para o desafio de ciência de dados para ingressar ao Programa Lighthouse da Indicium.
 
 Para excutar o projeto de modelagem é preciso ter instalados:
 
