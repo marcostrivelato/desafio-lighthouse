@@ -1,8 +1,10 @@
 # desafio-lighthouse
 
-Este repositório contém todo conteúdo desenvolvido para o desafio de ciência de dados para ingressar ao Programa Lighthouse da Indicium.
+## Este repositório contém todo conteúdo desenvolvido para o desafio de ciência de dados para ingressar ao Programa Lighthouse da Indicium.
+### Relatório de estatísticas
+  Em [relatório-estatisticas.ipynb]()
 
-Para excutar o projeto de modelagem é preciso ter instalados:
+## Para excutar os projetos de modelagem é preciso ter instalados:
 
 Python 3.9 ou [última versão](https://www.python.org/downloads/)
 
